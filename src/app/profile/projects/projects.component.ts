@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ProfileService } from '../../../../auth/profile.service';
+import { ProfileService } from '../../../auth/profile.service';
 
 @Component({
   selector: 'app-projects',
